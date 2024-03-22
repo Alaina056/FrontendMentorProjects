@@ -30,8 +30,6 @@ My challenge is to built a result-and-summary card component. A person's result 
 ![Mobile Preview Of Design](./assets/images/Mobile_preview.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
