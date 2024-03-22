@@ -30,7 +30,7 @@ My challenge is to built a result-and-summary card component. A person's result 
 ![Mobile Preview Of Design](./assets/images/Mobile_preview.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://alaina056.github.io/FrontendMentorProjects/)
 
 ## My process
 
@@ -43,5 +43,5 @@ My challenge is to built a result-and-summary card component. A person's result 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Alaina056](https://www.frontendmentor.io/profile/Alaina056)
 
